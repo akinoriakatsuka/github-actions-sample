@@ -1,4 +1,4 @@
-name: Pallarel
+name: Parallel
 on: [push]
 jobs:
   setup:
